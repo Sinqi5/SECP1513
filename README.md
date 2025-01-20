@@ -19,3 +19,7 @@ During the talk, Mr. Nik Mohd Habibullah underlined the significance of learning
 ## Assignment 4 :
 ☆ What I Have Gained <br>
 At MaGICX, I appreciated how AR and VR, along with other technologies, are utilized across line of business to increase efficiency and improve user experience. Watching the enablement of content and the supporting ecosystem helped me understand the use of sophisticated devices in education, medicine, etc. It opened my eyes to the actual use of progress and how knowledge in the classroom can be put into use.
+
+## Design Thinking Project :
+★ What I Have Gained <br>
+Through this work I also learned the need to use a user-centered practice when handling problems by implementing a design thinking methodology. Working on projects together with teammates taught me the importance of bringing different viewpoints and abilities together to generate a new one, such as the "Feast Finders" app. Besides, this experience also effectively trained my capacity of managing jobs successfully, doing communication well, and putting efforts into cooperation. I also discovered the benefits of clear and collaborative communication in solving problems. Generally, this has been the experience from which my teamwork has been improved, as well as the lesson, on how to modify strategies to sustain both productivity and inclusivity.
